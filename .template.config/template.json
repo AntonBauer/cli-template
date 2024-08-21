@@ -1,0 +1,22 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "identity": "Abauer.CliTemplate.CSharp",
+  "name": "Cli Template",
+  "shortName": "cli",
+  "author": "Anton Bauer",
+  "classifications": [
+    "Common",
+    "Cli"
+  ],
+  "tags": {
+    "language": "C#",
+    "type": "solution"
+  },
+  "sourceName": "Template",
+  "sources": [
+    {
+      "source": "./",
+      "target": "./"
+    }
+  ]
+}
